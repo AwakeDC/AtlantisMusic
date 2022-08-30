@@ -1,40 +1,36 @@
-# Musicium
+# AtlantisMusic
 
-*An advanced Discord Music Bot with a Dashboard, using distube.js.org having an interactive button & menu system and many features!*
-**Supported Features:** *Spotify • YouTube • SoundCloud • Live Stream • Audio Filtering • DJ Roles • Autoplay • Autoresume • Dashboard • ...*
+*Distube.js.org'u kullanan, interaktif bir buton ve menü sistemine ve birçok özelliğe sahip, Dashboard'lu gelişmiş bir Discord Müzik Botu!*
+**Desteklenen Özellikler:** *Spotify • YouTube • SoundCloud • Live Stream • Audio Filtering • DJ Roles • Autoplay • Autoresume • Dashboard • ...*
 
 ***
 
-### [**DISCORD SUPPORT SERVER INVITE**](https://discord.gg/dcdev)
-
-> 🦾 [Replit Hosting Tutorial](https://www.youtube.com/watch?v=Mv4QbxSv59M)
-
-> 💪 [General Hosting Tutorial (VPS)](https://www.youtube.com/watch?v=yPBo2Gbp9VY) + **Hosting-Bug Fixes**
+### [**Discord Destek Sunucusu**](#Yakında Eklenecek#)
 
 ***
 
 ## Features:
-> ✓ Dashboard with Live Queue Control System
+> ✓ Canlı Kuyruk Kontrol Sistemli Pano
 > 
-> ✓ Auto resume
+> ✓ Otomatik özgeçmiş
 > 
-> ✓ Setupable Music Request System-Channel
+> ✓ Kurulabilir Müzik Talebi Sistemi-Kanal
 > 
 > ✓ Crips and High Quality, thanks to FFMPEG based Audio streaming
 > 
-> ✓ A ton of Music-based Commands, including over 30 Filters!
+> ✓ FFMPEG tabanlı Ses akışı sayesinde Crips ve Yüksek Kalite
 > 
-> ✓ Default Music values like: `volume`, `filter`, `equalizer`, `autoplay`, ...
+> ✓ Şunlar gibi Varsayılan Müzik değerleri: "ses", "filtre", "ekolayzır", "otomatik oynat", ...
 > 
-> ✓ DJ-System
+> ✓ DJ Sistemi
 > 
-> ✓ Stable & Up to date with discord.js v13
+> ✓ Discord.js v13 ile kararlı ve güncel
 > 
-> ✓ Suport 1700 music sources + Stage & Thread Channels
+> ✓ 1700 müzik kaynağı + Sahne ve Konu Kanallarını destekleyin
 > 
-> ✓ Works on Replit.com and any vps
+> ✓ Replit.com ve herhangi bir vps'de çalışır
 
-## Installation Guide (Hosting)
+## Yükleme Rehberi
 
 > 🖖 [**Repl.it Fork**](https://replit.com/@OxyTomato/Musicium)
 > 
@@ -42,46 +38,37 @@
 > 
 > - ` 1. ` have **ffmpeg and at least 100mb Ram**
 > 
-> - ` 2. ` in `./botconfig/config.json` Adjust the BOT TOKEN and PREFIX **NOTE:** You __don't__ need the `ksoftapi`! It's disabled!
+> - ` 2. ` `./botconfig/config.json` BOT TOKEN ve PREFIX'i ayarlayın **NOT:** `ksoftapi` ye ihtiyacınız yok! Devredışı!
 > 
-> - ` 3. ` in `./botconfig/settings.json` Adjust the DEFAULT MESSAGES AND OTHER SETTINGS
+> - ` 3. ` `./botconfig/settings.json` VARSAYILAN MESAJLARI VE DİĞER AYARLARI YAPIN
 > 
-> - ` 4. ` in `./botconfig/embed.json` Adjust the EMBED SETTINGS
+> - ` 4. ` `./botconfig/embed.json` GÖMÜLÜ MESAJ AYARLARINI DÜZENLEYİN
 > 
-> - ` 5. ` in `./dashboard/settings.json` Adjust the parameters!
+> - ` 5. ` `./dashboard/settings.json` PARAMETRELERİ DÜZENLEYİN!
 > 
-> - ` 6. ` `npm install` to Install the depedences If you get **PYTHON ERRORS** Try this: `npm install --python=python2.7`
+> - ` 6. ` `npm install` Bağımlılıkları yüklemek için **PYTHON HATALARI** alırsanız şunu deneyin: `npm install --python=python2.7`
 > 
-> - ` 7. ` `node .` to start the Bot
+> - ` 7. ` `node .` Botu başlat ve eğlence başlasın!
 
 ***
 
-## Slash Commands Information
+## Slash(/) Komut Bilgileri
 
-> To add a Subcommand create a Folder in `./slashCommands`
+> Bir Alt Komut eklemek için içinde bir Klasör oluşturun. `./slashCommands`
 
-> Make sure to add it's Settings in `./botconfig/config.json`
+> Ayarlarına eklediğinizden emin olun `./botconfig/config.json`
 
-> You can't have more folder then 1 Layer
+> 1 Katmandan daha fazla klasörünüz olamaz
 
-> If u want to create "normal" Slash commands create the files just in `./slashCommands`
+> "Normal" Eğik çizgi komutları oluşturmak istiyorsanız, dosyaları hemen oluşturun. `./slashCommands`
 
 ***
 
-## [Discord Server 😎](https://discord.gg/milrato) | [Website](https://milrato.dev)
 <a href="https://discord.gg/milrato"><img src="https://discord.com/api/guilds/773668217163218944/widget.png?style=banner2"></a>
 
 ***
 
-## SUPPORT ME AND MILRATO DEVELOPMENT
-
-> You can always Support me by inviting one of my **own Discord Bots**
-
 [![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.milrato.dev)
 [![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://musicium.musicium.dev)
 [![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://milrato.milrato.dev)
-
-# Credits
-
-> If consider using this Bot, make sure to credit me!
 
